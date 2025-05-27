@@ -1,0 +1,6 @@
+PyAudio==0.2.13
+pydub==0.25.1
+matplotlib==3.7.1
+numpy==1.24.3
+tkinter-tooltip==0.3.1
+pillow==9.5.0
